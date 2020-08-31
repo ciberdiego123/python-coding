@@ -1,0 +1,6 @@
+s = input()
+s = s.replace('{', '')
+s = s.replace('}', '')
+s = s.replace(',', '')
+s = set(s.split())
+print(len(s))
