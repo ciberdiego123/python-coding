@@ -39,3 +39,4 @@ Thumbs.db
 
 # PyCharm Dependencies
 venv/*
+/.vscode/c_cpp_properties.json
